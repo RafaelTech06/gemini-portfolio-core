@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portfólio Inteligente - Desenvolvido com o poder de Gemini</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #0056b3;
+        }
+        .project-item {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 15px;
+            margin-bottom: 15px;
+        }
+        .project-item:last-child {
+            border-bottom: none;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 30px;
+            font-size: 0.9em;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Bem-vindo ao Meu Portfólio Digital!</h1>
+            <p>Aqui você encontrará uma amostra dos meus melhores trabalhos e projetos.</p>
+        </header>
+
+        <section id="about">
+            <h2>Sobre Mim</h2>
+            <p>Sou um profissional apaixonado por tecnologia e inovação, com foco em soluções criativas e eficientes. Acredito no poder da inteligência artificial para otimizar processos e gerar insights valiosos.</p>
+        </section>
+
+        <section id="projects">
+            <h2>Meus Projetos</h2>
+            <div class="project-item">
+                <h3>Projeto 1: Sistema de Análise de Dados Automatizada</h3>
+                <p>Um sistema que utiliza algoritmos para analisar grandes volumes de dados e gerar relatórios visuais.</p>
+                <p>Tecnologias: Python, Pandas, Matplotlib, [Sua Tecnologia Fictícia de IA/ML]</p>
+            </div>
+            <div class="project-item">
+                <h3>Projeto 2: Aplicação Web de Gerenciamento de Tarefas</h3>
+                <p>Uma aplicação web intuitiva para organizar e acompanhar tarefas, com funcionalidades de lembretes inteligentes.</p>
+                <p>Tecnologias: HTML5, CSS3, JavaScript, Node.js</p>
+            </div>
+            </section>
+
+        <footer class="footer">
+            <p>Este portfólio é aprimorado e organizado com o suporte de conceitos e insights da IA Google Gemini.</p>
+            <p>&copy; 2025 Rafael Torres Teixeira. Todos os direitos reservados.</p>
+        </footer>
+    </div>
+</body>
+</html>
